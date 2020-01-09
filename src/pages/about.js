@@ -11,7 +11,7 @@ const AboutPage = () => {
             <Layout>
                 <Head title="Sobre Mí"/>
                 <h1>Sobre mí</h1>
-                <p>Actualmente me encuentro estudiando en la Universidad tecnológica de Panamá y desarrollando proyectos creativos.</p>
+                <p>Actualmente me encuentro estudiando en la Universidad Tecnológica de Panamá y desarrollando proyectos creativos.</p>
                 <p>¿Necesitas un desarrollador? <Link to= "/contact">Contáctame</Link></p>
             </Layout>
         </div>
